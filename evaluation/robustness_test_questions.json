@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1002,
+    "question": "Quel est le maximum journalier de pluie à Aïn Draham en 2022-2023 ?",
+    "category": "data",
+    "family_id": 16,
+    "split": "test",
+    "context": {}
+  },
+  {
+    "id": 1004,
+    "question": "Combien de jours avec plus de 90 mm à Aïn Draham en 2022-2023 ?",
+    "category": "calculation",
+    "family_id": 23,
+    "split": "test",
+    "context": {}
+  },
+  {
+    "id": 1007,
+    "question": "Quel résidu sec est publié à BOU BRIMA le 2022-11-08 ?",
+    "category": "data",
+    "family_id": 41,
+    "split": "test",
+    "context": {}
+  },
+  {
+    "id": 1009,
+    "question": "Quel débit dans le tarage correspond à 120 cm à BOU BRIMA le 2023-01-01 ?",
+    "category": "data",
+    "family_id": 33,
+    "split": "test",
+    "context": {}
+  },
+  {
+    "id": 1010,
+    "question": "Quelle est la pluviométrie annuelle à Aïn Draham ?",
+    "category": "data",
+    "family_id": 49,
+    "split": "test",
+    "context": {}
+  }
+]

@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P10 — Interface et traitement de tout le corpus
+
+Exécute P10. Construis l’interface Streamlit : question, réponse, sources ouvrables, période, statut publié/calculé, formule facultative, couverture et limites. Ajoute la consultation des tableaux et figures sources. Les chemins affichables proviennent du registre autorisé. Puis étends l’ingestion à toutes les pages et toutes les familles observées. Ne t’arrête pas au pilote. Chaque page doit être traitée, classée sans données exploitables ou signalée bloquée avec raison. Révise les exceptions réalisables ; les cellules non fiables restent exclues des calculs. Publie les effectifs réels par station/indicateur et une liste des fonctionnalités bloquées par la couverture.
+
+Implémente intégralement specifications/02_INTERFACE_STREAMLIT.md : cinq espaces, sources à la demande, états, cache versionné et exports. Une page de chat seule ne satisfait pas P10.
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P10_report.md en remplaçant P10 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

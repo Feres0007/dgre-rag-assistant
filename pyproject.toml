@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dgre-rag"
+version = "0.1.0"
+description = "Consultation locale et traçable des annuaires DGRE"
+requires-python = ">=3.11,<3.14"
+dependencies = ["pymupdf>=1.28,<1.29", "pydantic>=2.13,<3", "pyyaml>=6,<7", "streamlit>=1.63,<2", "requests>=2.34,<3", "fastembed>=0.8,<0.9"]
+
+[project.optional-dependencies]
+dev = ["pytest>=9,<10"]
+
+[project.scripts]
+dgre-rag = "dgre_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+dgre_rag = ["storage/*.sql", "prompts/*.txt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+

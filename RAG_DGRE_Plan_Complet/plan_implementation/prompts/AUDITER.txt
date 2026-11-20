@@ -1,0 +1,4 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+Audite le dépôt contre les critères P00–P12. Cherche les fonctions vides, pass/TODO sur le parcours critique, mocks actifs hors tests, réponses codées en dur, exceptions avalées, fausses citations, SQL libre et modes dégradés cachés. Vérifie les tests réellement exécutés, la couverture réelle des deux PDF et la correspondance des index. Produis une matrice exigence/preuve/état, corrige les défauts réalisables puis actualise DELIVERY.md. Un fichier présent n’est pas la preuve que sa fonctionnalité marche.
+Reste dans le périmètre de la phase autorisée et produis le rapport avant toute poursuite.

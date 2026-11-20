@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P02 — Inventorier et segmenter les PDF
+
+Exécute P02. Inventorie toutes les pages des deux PDF : page PDF, numéro imprimé, texte, section, tableaux, figures, qualité et état. Construis les familles de mise en page. Prépare un pilote de 15 à 25 pages couvrant les familles, dont pluviométrique 6, 9, 24, 26, 37, 50, 51 et hydrologique 17, 18, 19, 20 dans les exemplaires fournis. Ajoute des pages de crues et d’autres formats repérés. Affiche les pages difficiles et valide la segmentation géométrique. Ne te limite pas à une extraction textuelle linéaire.
+
+
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P02_report.md en remplaçant P02 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

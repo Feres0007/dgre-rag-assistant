@@ -1,0 +1,3847 @@
+{
+  "1": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "43b1281d0cfdaec2d1ebcb21ba7f9b2a24b0d59acd121f1e6ac4bf35dfd9cef7"
+  },
+  "2": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "ee45194cc94233a5433da320c4b2eb26a7f4d8b4934a073155357c3cfbb1a47f"
+  },
+  "3": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5672218f11e251170867a336362f034cc9f0cc1c74affa7133004a835bb60b77"
+  },
+  "11": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "2988dbd30f4352c05a15012898f8895ffb18a0960cce3a05e0844fe58de2e1af"
+  },
+  "12": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9fc5b23d97a81aa35bd11ca76e9112ecb0e4201ef505f35863b5df50eb45170e"
+  },
+  "4": {
+    "required": [
+      "nord",
+      "sud"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "11229fe9eba22a1c0f8650785c6a8c880b398b49702e40b78fc23b3fe08dd43f"
+  },
+  "13": {
+    "required": [
+      "nord",
+      "sud"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "46ba5841c2628ca2b0aca2c65fd9ad76f213d41f4ecdcd2c98735f62f44550c6"
+  },
+  "5": {
+    "required": [
+      "centre ouest",
+      "sud ouest",
+      "37"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9b65c37aa6374ca7f8371c1c3a07aadc397ae6b4b770166986cf008a047ebd35"
+  },
+  "32": {
+    "required": [
+      "centre ouest",
+      "sud ouest",
+      "37"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "357b7d65ebcef6136a432309bdbe86224b02fad0b79090946605e96149e658f5"
+  },
+  "6": {
+    "required": [
+      "nord ouest",
+      "402"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "d355e5b8040560a690acbef5e7178994cceced327b95db7fc13e3405dc485d7b"
+  },
+  "14": {
+    "required": [
+      "nord ouest",
+      "402"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "97db0d0e5a832f0cd31da843d722c0e631a2e8319c3310c02550068471c41150"
+  },
+  "15": {
+    "required": [
+      "sud ouest",
+      "65"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "02ed8ce0489bb4387b08c44f0297eac217f253e99f79d0837ffc1ec3dfc62138"
+  },
+  "7": {
+    "required": [
+      "69,5",
+      "36,9"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        13
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "d7282b42f93095ac584c70a7ddbd7482daf6bea7a5e06e050ae1f571ef0f87c2"
+  },
+  "48": {
+    "required": [
+      "69,5",
+      "36,9"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        13
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "f65ca399422ca69e8a8fc7b1ceaa0e7dd54033eeb3368dfdb088598ebd97306f"
+  },
+  "8": {
+    "required": [
+      "mai",
+      "52,3"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "1fa13fdf31a39334b28a8753b09a9c5b533409f8debb2e579b38f09035e7cc53"
+  },
+  "9": {
+    "required": [
+      "juillet",
+      "2,1"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "99ed49d4c220ffac53bad3e07006d34cf62b77bfd867bfbd5960cd4e07828af9"
+  },
+  "44": {
+    "required": [
+      "juillet",
+      "2,1"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "70a0b512363425211b104a2e1ca490236a635097dd4618ea1fbc4a8808877a5c"
+  },
+  "10": {
+    "required": [
+      "25,6"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        13
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9e3852046d2a85ad26b1d91a4e4ee833a98e93bd095c238c8b6c1e067d057ee9"
+  },
+  "49": {
+    "required": [
+      "25,6"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        13
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "231feaba61c941b8e513b8a931176b89194d76f113304042406d14d8f0a62057"
+  },
+  "16": {
+    "required": [
+      "ne",
+      "rempl"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Les apports annuels ne sont pas des stocks de remplissage ; absence de preuve suffisante pour plein/vide.",
+    "question_sha256": "504a8645966f28fe1fb660b5b6e837763adb397e0056a3cbeaad3a4a4306fba1"
+  },
+  "88": {
+    "required": [
+      "ne",
+      "rempl"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Les apports annuels ne sont pas des stocks de remplissage ; absence de preuve suffisante pour plein/vide.",
+    "question_sha256": "0fc9245b1fb1507f00a1eca5d00fdc868e870d80d9bc0643798782d787ef7628"
+  },
+  "213": {
+    "required": [
+      "ne",
+      "rempl"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Les apports annuels ne sont pas des stocks de remplissage ; absence de preuve suffisante pour plein/vide.",
+    "question_sha256": "ac0e16c9601eb1be1215121d19c2712d74762820a534178130fbb8dd1d27ada8"
+  },
+  "19": {
+    "required": [
+      "ne peux pas conclure"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Pas de bilan de recharge des nappes ou de satisfaction des besoins agricoles établi par ces annuaires.",
+    "question_sha256": "5259b476b2fa574fb79188a8fb2d6b98a04583473bf9fb2c4e61da637e17a5eb"
+  },
+  "20": {
+    "required": [
+      "ne peux pas conclure"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Pas de bilan de recharge des nappes ou de satisfaction des besoins agricoles établi par ces annuaires.",
+    "question_sha256": "c9da86ac3b3f2403b2a7c88512b50e860dc84eeb511ae10bbdd514729346ae4b"
+  },
+  "21": {
+    "required": [
+      "jendouba",
+      "620,5"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        24
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "bc5dcdd0b275614082e37cfbe2e06e85dd0c0cc9a676e7f82f49ef09c1b6fa2f"
+  },
+  "22": {
+    "required": [
+      "bizerte",
+      "tunis",
+      "514,9",
+      "271,4"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        24
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c78a60426dee01afa78681318df08665426cf5b5c1c49d9640f9ca5e204c2481"
+  },
+  "23": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Périmètre ou agrégation à préciser ; ne pas substituer une station à une ville/région.",
+    "question_sha256": "82679451bab439e0c95fd780cef2862a3ccc6bebabd5ccc0637e5b7102aaeb11"
+  },
+  "30": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Périmètre ou agrégation à préciser ; ne pas substituer une station à une ville/région.",
+    "question_sha256": "a7fc5b2ee8ab14bef2cb5183e8e75e2330b9393f74f1ffe8f74580a8af2f11c4"
+  },
+  "38": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Périmètre ou agrégation à préciser ; ne pas substituer une station à une ville/région.",
+    "question_sha256": "b97550fb54dcea5a7c299fd5f402c79fdf9b1e14610daac554d39ae7b4d14aba"
+  },
+  "64": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Périmètre ou agrégation à préciser ; ne pas substituer une station à une ville/région.",
+    "question_sha256": "95ed9ac56f565b2f20063278a809a291d794d2df44bb8aaf28a878f287f8cd65"
+  },
+  "24": {
+    "required": [
+      "sud ouest",
+      "65",
+      "sud est",
+      "108"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c577833f6421cf72613e3ebfa83482a594087dee197dfa01cdfbc5fd5eb2cfd4"
+  },
+  "25": {
+    "required": [
+      "gafsa",
+      "80,4"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        26
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "dedafa39c5cdee74db8fd457b42f208f38d7ea08c5bc7656c9e3a041ebdf6476"
+  },
+  "26": {
+    "required": [
+      "centre ouest",
+      "37"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "99de64128cc40aad902a71c146253126c15ddb3912a095fcf619491237d603b9"
+  },
+  "27": {
+    "required": [
+      "kebili",
+      "57,5"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        26
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9588ab8a79b86bc149a32abb047cfcd5850123674f29ca740cfe8dc33fa90e24"
+  },
+  "28": {
+    "required": [
+      "sidi bouzid",
+      "kasserine"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        25
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "3c92000daad55368d2e559435cb3416f7d28e223720cb514e326283b22a540c0"
+  },
+  "29": {
+    "required": [
+      "sfax",
+      "163",
+      "217",
+      "75"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        21
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "fd6343adb7199ab0e64dfbac453cfee485b888d57dd75f68138bd3a4934c130c"
+  },
+  "31": {
+    "required": [
+      "402",
+      "380"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "730073a479b3ec63592b51d0949052f2d9bdfdbb9e62984a05fc41ca8debccd3"
+  },
+  "33": {
+    "required": [
+      "21",
+      "37"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9c132f65b2ab676c2e26e2f585b0b18807de368fc75725d60760ab3e1e4f6f59"
+  },
+  "34": {
+    "required": [
+      "nabeul"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        25
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c25b1b00c3af7eae02f6a446246a45b3ab23011d83dca93f15d327552bb05cf6"
+  },
+  "35": {
+    "required": [
+      "kairouan",
+      "206",
+      "322"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        21
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "398c6586b7c7c973a548a6d96daf7081951f235bb0fc47420055fd51a8cb9fe4"
+  },
+  "36": {
+    "required": [
+      "monastir",
+      "sousse"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        25
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "ff2edcb024ed6fc02d16eabd1eb2145015464ae49d11492ac52a56f7d216093e"
+  },
+  "37": {
+    "required": [
+      "418",
+      "575"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        20
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "467b1280b96c25e59bc55173df6a2846474c1597f54a0e3cfd57a90442af4ff8"
+  },
+  "39": {
+    "required": [
+      "siliana",
+      "318,7"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        24
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "ad7ff266a3c87c1837b3049ad6bb004950b08238ece7dc60c77965fc9606d425"
+  },
+  "40": {
+    "required": [
+      "tozeur",
+      "69,9"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        26
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b4b21801469c814377ed10ee278127d28d2dd5f67510358e6ebab1a6a486fd9c"
+  },
+  "41": {
+    "required": [
+      "mai",
+      "109,9"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "03971505e302c8aa47d0246d388ad354f8a4bec0c41e900c7effd4ad0c4ba3b0"
+  },
+  "42": {
+    "required": [
+      "novembre",
+      "14,2",
+      "60"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "d3bbbfd36ebe06a7ef6077ce895e40efdc7a46a8e85f3bf88ca510e59509fd2e"
+  },
+  "43": {
+    "required": [
+      "mai",
+      "52,3",
+      "380"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0cd520c45a62463a11ff6c553b21849c72624acf7744a687029c1cf884700b8b"
+  },
+  "45": {
+    "required": [
+      "mars",
+      "2,5",
+      "9"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "e57f5ba2baf683d39a587fb0c3ad8f22253bffccd6ee7a75a5e5c93c234d0a19"
+  },
+  "53": {
+    "required": [
+      "mars",
+      "2,5",
+      "9"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "282d7b362e37fc0460cec76d212e25015adb00ab10291ff0460591c7f56ae5c1"
+  },
+  "46": {
+    "required": [
+      "automne",
+      "35",
+      "21,1"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        13
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5c00fd29aeb76ee0f6e6cfcd63d5d0568857d9d71952ebe929dbf4b32b7d7a7e"
+  },
+  "47": {
+    "required": [
+      "printemps",
+      "69,5",
+      "41,5"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        13
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b3972593c8d5b79e097cb469575201ce2594c9fbc560e5d93f53b5c0678339a2"
+  },
+  "51": {
+    "required": [
+      "février",
+      "25,5",
+      "113"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b00bd9f7015eff26d25f7d9cb69f16a863b51eaf97e344c99f70d5013733183b"
+  },
+  "52": {
+    "required": [
+      "aout",
+      "9,6",
+      "155"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "f0a5c6ae4a9fdca02934b466e06507cb60d069e53f8892c8292739b5700ee3ba"
+  },
+  "54": {
+    "required": [
+      "septembre",
+      "18,2",
+      "83"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "7244fdb02f9a7a2e5dd6615c66951aa2830cc633be878ff4b3de916efea59d98"
+  },
+  "55": {
+    "required": [
+      "octobre",
+      "2,9",
+      "10"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "4f79ca061b6cc3918a6f2d7a2337497ba38ae82850c265a12ae313bbf1a0cbbc"
+  },
+  "56": {
+    "required": [
+      "decembre",
+      "3,7",
+      "12"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "e26c681366713d83ad1425e288d34a2b79da42edf010e3e4146643074aee42bd"
+  },
+  "57": {
+    "required": [
+      "janvier",
+      "7,7",
+      "26"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "8679ee6b5866b5e00ae225a68c881841e0b913b17a435ffa109fbd7a8ce9dba1"
+  },
+  "58": {
+    "required": [
+      "avril",
+      "14,6",
+      "71"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b0b15a7cfe4ea85f9f7ac73982bc9b73f02083bf0c1f4e700641f6dd3c6ff159"
+  },
+  "59": {
+    "required": [
+      "juin",
+      "14,0",
+      "211"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "dd7343d0b170ce15c1c68578746016fc6ae5e7c9daa56ebfcf9a7d1d3d77c935"
+  },
+  "60": {
+    "required": [
+      "juillet",
+      "2,1",
+      "100"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        10
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "d6a4c552917669b14a8f0951f8061fbca596212511143c9e468e8719b0e7454b"
+  },
+  "62": {
+    "required": [
+      "102",
+      "36"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "401caa8dcf1da9dd0c2ba1b12b424e935dff17f04c1abcf7224c95db397fbb6b"
+  },
+  "214": {
+    "required": [
+      "102",
+      "36"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "fbb8eb8a43bc7d3195767df0b6d389e806d69c4ac73323bd417dbc1bb3c37b2b"
+  },
+  "68": {
+    "required": [
+      "726",
+      "148"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        6
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "38429ad922324c3a93f70864b9ce7d8f3af0d70fb478d44797ce25211d4c1669"
+  },
+  "69": {
+    "required": [
+      "726",
+      "148"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        6
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "11af57c466239b827a27f0b3719850fae10fafb5cef1a49b26d1f34f2e6c0907"
+  },
+  "218": {
+    "required": [
+      "726",
+      "148"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        6
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "57c8ba0858c17d4f875eedee16ce8aa0e3a47c3ab04563aefbb03aceed8ee690"
+  },
+  "71": {
+    "required": [
+      "1178",
+      "mm"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9493840aa0866afac0705661abd78150f3ee27dd11612af50a101b035e34afea"
+  },
+  "72": {
+    "required": [
+      "93",
+      [
+        "20 mai 2023",
+        "2023-05-20"
+      ]
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "1e215aa9ef562e89b838a2f34109660b14c6165291acc32a410f658508584962"
+  },
+  "74": {
+    "required": [
+      "715"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        37
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "762fc9fece3e5a8279176d780041b53354f0b78bd8c6df3248a91784879564a7"
+  },
+  "75": {
+    "required": [
+      "36,7264",
+      "8,6844"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        37
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "dc1b4c344116d5cd4882595150a3fc4c0c04303f7a4229a7c27176379c0a5d9e"
+  },
+  "82": {
+    "required": [
+      "sidi bouzid"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        25
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "f46e73ee9d0abe3ac36de3d2bbe9c50c2c53014e73eb474d31466d425761b1a3"
+  },
+  "83": {
+    "required": [
+      "gafsa"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        26
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a7bbd86bb9924f428891a7c025ea1071181eef71b1a8d82a42cc182c4138e325"
+  },
+  "84": {
+    "required": [
+      "mednine"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        26
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "09bd964361821bed66130a6c0c5568f376a18329e3d41b9e80a21595bfe16243"
+  },
+  "85": {
+    "required": [
+      "tataouine"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        26
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "6a8bc7fae414fbfd6eba2bb1830c0f1ba8a4bcbe70c1892176c2b0bfbc1145a7"
+  },
+  "90": {
+    "required": [
+      "814",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "2d8a6705b21d037c3ce2c73c2cf52870d62a5d3b7313d7db454b2688c14eb018"
+  },
+  "91": {
+    "required": [
+      "86,849",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b385e820809ce5acb321efc4d75702b1f6fc8a17dbb5204bc94987ebcced6299"
+  },
+  "93": {
+    "required": [
+      "182,20",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        70
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "d0473840c8c18f8baee92118bcce1c5fb2dc6d43a6e23cd6d5e83367a2ccccdd"
+  },
+  "94": {
+    "required": [
+      "161,411",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        70
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "f31540776588ef35be57b488274f4b2da1bf572b43f13516b9163b0c8e110b5c"
+  },
+  "96": {
+    "required": [
+      "16,061",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        27
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "2e86eb15034374ac88e7e92a56053dad87fd846d4e4b98d57feb53c86fbf3768"
+  },
+  "98": {
+    "required": [
+      "5",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        22
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "8b2d8a8f5280ad13da34b17e77f41cbecc79087459665381b93ad4550a4859bf"
+  },
+  "101": {
+    "required": [
+      "15,440",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "00d8b878a666772f4ab9b8262c83f718f369d26336040b4d4912a431d466d26a"
+  },
+  "103": {
+    "required": [
+      "98,050",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "fb6f99bacda21dc700ba15bca0b8c969564532b31b51ab1fda53bb4195efec3d"
+  },
+  "106": {
+    "required": [
+      "30,1",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        95
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "80a4d5f0e6d3742ce6c69ff2cdf8ee362526fb290501bfd1d10812807af413d0"
+  },
+  "107": {
+    "required": [
+      "1,091",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        95
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "8a5840063db17d3e41b26c2eaf7447155c36b21760ed8fb9045d06e153f69f0a"
+  },
+  "110": {
+    "required": [
+      "52,9",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        99
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "682422f02d9f016cf9935c4d0179ec5c056a221fd719a22dd210d1c061d16906"
+  },
+  "111": {
+    "required": [
+      "6,871",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        99
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "bd8e562cfbc030f0316286f42f0d747d4797f9b2f51a479a082258794c687d87"
+  },
+  "113": {
+    "required": [
+      "209",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        105
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "80365c47aa148380314790a9acdab28cda828e9207133b9b6f86d2324105891b"
+  },
+  "114": {
+    "required": [
+      "20,710",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        105
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "15e1566b5a6bd9c7c1e9db344c81dd394d14d9d117486dce3b99f508de7ae744"
+  },
+  "115": {
+    "required": [
+      "95,3",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        105
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "7b5341ae3c255846291cb4899a0a0a09527ad353816a2850be36f4e784947d75"
+  },
+  "116": {
+    "required": [
+      "9,498",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        105
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "eca5adfbf30cdca3262a95f18530c852ba4879721c7d2f960b9eca90374efb26"
+  },
+  "118": {
+    "required": [
+      "88",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        112
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "902b36da3e480328b5ee4c465a155a252cefb18f66209e6fefa3e37eddd1e576"
+  },
+  "119": {
+    "required": [
+      "1,572",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        112
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b7959c6e8223847e0d14aa0bb08e0a33b326218e945a6320bea5bd5c83218993"
+  },
+  "121": {
+    "required": [
+      "70",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        86
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "966f9b9180cd19a35cba51c5315c7fb0966db418eae80a0537db3c742c734f95"
+  },
+  "122": {
+    "required": [
+      "10,313",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        86
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "6274ec02571d566da84bc1d27c3e17ca3ff5339abb14030518edd816079c7457"
+  },
+  "125": {
+    "required": [
+      "2,243",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        86
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "39cdedf405befd93eccb66fe8eb1657ce7fe4af2a5ce09697e87bcbd11ac49a7"
+  },
+  "229": {
+    "required": [
+      "5",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        22
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "8b2d8a8f5280ad13da34b17e77f41cbecc79087459665381b93ad4550a4859bf"
+  },
+  "220": {
+    "required": [
+      "814",
+      "m³"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b374e9286704ce98e5278b3a8c736843581795b91cc935e10fb5028114ed54a1"
+  },
+  "92": {
+    "required": [
+      "sidi salem",
+      "1981",
+      "medjerda"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "810103d35e732acbb0073e98154343041be210c80e6fb57477d79d42e9b28882"
+  },
+  "97": {
+    "required": [
+      "hma",
+      "2002"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        90
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0040c21f048d6117f8111657bd77e8a3de10bf89c3f9ba189b6c467052fabe65"
+  },
+  "100": {
+    "required": [
+      "mellègue",
+      "1954"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        70
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "adf174c0356124960a359ab47b70b44566e0a8b30662b9cc3e7fe4c3a43cd6f7"
+  },
+  "102": {
+    "required": [
+      [
+        "barreek",
+        "barrek"
+      ],
+      "1999"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "58b555c12158ad4f356b1ca85d55b37013cb7a27481d58a83de3bc03d1392600"
+  },
+  "105": {
+    "required": [
+      "ziatine",
+      "2012"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        27
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "ddfa7c5f19c76e4e9d03c8488105f2c337a9eb153f0296552f4dbb74da21f51d"
+  },
+  "109": {
+    "required": [
+      "bir mcherga",
+      "1971"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        99
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "70fb888c4a359bd0f1c35a6bcd5e86f6a9c3d590d67b43c438a5e950d72818c1"
+  },
+  "123": {
+    "required": [
+      "siliana",
+      "1987"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        86
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "e8125aa014c58467b13ce45c470b73c8d5aff151c430ab9c75b7809ed6036d37"
+  },
+  "124": {
+    "required": [
+      "lakhmess",
+      "1966"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        86
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "1b2514bba9c44ce68276c4b605099a1488b563bd1f0e03ef37c120db46288b5b"
+  },
+  "95": {
+    "required": [
+      "ziatine",
+      "guemgoum",
+      "sejnane",
+      "ghezala",
+      "joumine",
+      "tine",
+      "melah"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        27
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "7d4c874b43e24bad21cbc2b463ca7f210f959626236d676f4d7ad7c6ec808213"
+  },
+  "99": {
+    "required": [
+      "el aroussia"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        22
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "71a1ef1326cf6fd0e50e13c80a0bef87ad40206a784908550046c21553325d56"
+  },
+  "104": {
+    "required": [
+      "ben mtir",
+      "zarga",
+      "bou heurtma",
+      "barbar"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        52
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "da9d8ac5d3fb4730dd5c9459d313ddf06a84ebefc6e58fbb5aa2ec1fc602d1f5"
+  },
+  "108": {
+    "required": [
+      "lebna",
+      "abid",
+      "bezirk",
+      "chiba",
+      "masri"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        95
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a63fd95b7ef1c012021ca1d73ec4594dccfde09de608d04aa23169882b3f3af7"
+  },
+  "112": {
+    "required": [
+      "haouareb",
+      "sidi saad",
+      "nebhana"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        105
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b7cc30a491fac8fb9466e7ea4c2f79c368282cd840953952baa7205aea701818"
+  },
+  "117": {
+    "required": [
+      "sfisifa",
+      "brek",
+      "sidi aich"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        112
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "e1e297efbc64f838bbcdb2de8a8b82b1c90064aa10c0d752be8f2580a5f2a253"
+  },
+  "120": {
+    "required": [
+      "rmil",
+      "siliana",
+      "lakhmess"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        86
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "4a80d8598639c444ed65407f3cde858f20b397b4428df1ce6b0f9e658be22125"
+  },
+  "86": {
+    "required": [
+      "mellègue",
+      "161,411"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        70
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "6c443488d30e380bbee08de08070bdf724c8c675b525556434eecc9699bc3491"
+  },
+  "89": {
+    "required": [
+      "chiba",
+      "0,036"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        95
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "4feffc33f67fb215114ab399dfdedb513b0e249fff4b85daf848f1758ada5380"
+  },
+  "87": {
+    "required": [
+      "86,849",
+      "404,98"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        34
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a5c5ef2b7cbaf836de20f779158574696d2317b2e501a3e7fe821ffcf125c681"
+  },
+  "131": {
+    "required": [
+      "14,99"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        18
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a72e3afcdfc86886c250e89a4e4532161850ff2e36681e631facca4f5f4f3af5"
+  },
+  "230": {
+    "required": [
+      "14,99"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        18
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a72e3afcdfc86886c250e89a4e4532161850ff2e36681e631facca4f5f4f3af5"
+  },
+  "132": {
+    "required": [
+      "273",
+      "mars",
+      "1973"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        29
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "1e45939870e2692e9d6ac86089f2bbe9cf122f166db09ff7a29fee71a7853df4"
+  },
+  "133": {
+    "required": [
+      "273",
+      "mars",
+      "1973"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        29
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a873fbe785d255ca587edf0caefb7aca630daf15b06b5208703cd03d77b275c1"
+  },
+  "173": {
+    "required": [
+      "273",
+      "mars",
+      "1973"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        29
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "1e45939870e2692e9d6ac86089f2bbe9cf122f166db09ff7a29fee71a7853df4"
+  },
+  "174": {
+    "required": [
+      "273",
+      "mars",
+      "1973"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        29
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a873fbe785d255ca587edf0caefb7aca630daf15b06b5208703cd03d77b275c1"
+  },
+  "135": {
+    "required": [
+      "21,5"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        56
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0d90242260880d85d9004d4d3dc6032fcd8d6b6607e3c7ebd8ad1f3aa6a5af58"
+  },
+  "176": {
+    "required": [
+      "21,5"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        56
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0d90242260880d85d9004d4d3dc6032fcd8d6b6607e3c7ebd8ad1f3aa6a5af58"
+  },
+  "136": {
+    "required": [
+      "455,97"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        62
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0960f7e4e443ff22777ad9acc56b83da4c6afe64c5a0cb21eccd15c11c4aaa2c"
+  },
+  "177": {
+    "required": [
+      "455,97"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        62
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0960f7e4e443ff22777ad9acc56b83da4c6afe64c5a0cb21eccd15c11c4aaa2c"
+  },
+  "137": {
+    "required": [
+      "1194",
+      "octobre",
+      "2018"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        71
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5ae2a565f1d370e2e0fc67aa766678e5df188e215abf5829e35a9ffc819886da"
+  },
+  "162": {
+    "required": [
+      "1194",
+      "octobre",
+      "2018"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        71
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5ae2a565f1d370e2e0fc67aa766678e5df188e215abf5829e35a9ffc819886da"
+  },
+  "178": {
+    "required": [
+      "1194",
+      "octobre",
+      "2018"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        71
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5ae2a565f1d370e2e0fc67aa766678e5df188e215abf5829e35a9ffc819886da"
+  },
+  "138": {
+    "required": [
+      "1530",
+      "octobre",
+      "1969"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        114
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5cde70e6026d4bf454c086f04b50ad152a3b1cc949a1347133d0a598dbbe2e42"
+  },
+  "163": {
+    "required": [
+      "1530",
+      "octobre",
+      "1969"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        114
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5cde70e6026d4bf454c086f04b50ad152a3b1cc949a1347133d0a598dbbe2e42"
+  },
+  "179": {
+    "required": [
+      "1530",
+      "octobre",
+      "1969"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        114
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "5cde70e6026d4bf454c086f04b50ad152a3b1cc949a1347133d0a598dbbe2e42"
+  },
+  "139": {
+    "required": [
+      "sarrat",
+      "75",
+      "unité"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        74
+      ]
+    ],
+    "note": "Le tableau imprime 75 et un en-tête h : contradiction avec les horaires ; ne pas affirmer 75 heures sans réserve.",
+    "question_sha256": "52d414d5c83d5706911858ab3fa0c87dbc4825106f0ae99b4b59933d0615cac9"
+  },
+  "164": {
+    "required": [
+      "sarrat",
+      "75",
+      "unité"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        74
+      ]
+    ],
+    "note": "Le tableau imprime 75 et un en-tête h : contradiction avec les horaires ; ne pas affirmer 75 heures sans réserve.",
+    "question_sha256": "52d414d5c83d5706911858ab3fa0c87dbc4825106f0ae99b4b59933d0615cac9"
+  },
+  "180": {
+    "required": [
+      "sarrat",
+      "75",
+      "unité"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        74
+      ]
+    ],
+    "note": "Le tableau imprime 75 et un en-tête h : contradiction avec les horaires ; ne pas affirmer 75 heures sans réserve.",
+    "question_sha256": "52d414d5c83d5706911858ab3fa0c87dbc4825106f0ae99b4b59933d0615cac9"
+  },
+  "140": {
+    "required": [
+      "185,680",
+      "27/11/2022"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        72
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "6b00ec9387b892f0ca126b42155c1944e981cb38e96c7bb5c08d1fbea13d920f"
+  },
+  "165": {
+    "required": [
+      "185,680",
+      "27/11/2022"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        72
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "6b00ec9387b892f0ca126b42155c1944e981cb38e96c7bb5c08d1fbea13d920f"
+  },
+  "145": {
+    "required": [
+      "1,007"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        56
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "745ad31a87492cc01228de6b9697f98438d02689d01294102296ac0b5f0c8a37"
+  },
+  "146": {
+    "required": [
+      "5,887"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        60
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "09808b13f0847168a50bc6b6ef4d6b6a8288c73eaa0132c7e964a023ca23b94a"
+  },
+  "147": {
+    "required": [
+      "14,46"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        62
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "7b88252aa52c5159683b7d51e16e602bed4b2c20c9c5db44717bea6f77cdc9c3"
+  },
+  "149": {
+    "required": [
+      "6,083"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        36
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "cb98f2d6d3494e89baf58062da7313613b9e21fcfd13aab79c29390700af8d10"
+  },
+  "150": {
+    "required": [
+      "12,45"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        40
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "12f5830b61ea64087ba4e64332138f371e782a57d2228f289b56ea3f1645827d"
+  },
+  "151": {
+    "required": [
+      "5,296"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        44
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "2a0f4f144aeea0c5fe0eb78f7b3510d113ddd25706698baa2ce4d545af162148"
+  },
+  "152": {
+    "required": [
+      "1,754"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        46
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c0a970aaf905c0fddc187fa545b9665edf12c881522762a1128c391a8f0e6037"
+  },
+  "153": {
+    "required": [
+      "0,298"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        114
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "f9020173645ee8f33d80c1e2927737db1aae7e9a9c853b6ca12e84f1d952da65"
+  },
+  "154": {
+    "required": [
+      "0,195"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        116
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "08f91c15701efe399d25e3bad18f3431906802f6f35284cda7ba398515e60db0"
+  },
+  "155": {
+    "required": [
+      "0,264"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        107
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "083227492069daa42083ea3d34b59e506d1ea7bebef3e6a7bd7a4e085f4ca28f"
+  },
+  "156": {
+    "required": [
+      "0,201"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        101
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "34944c6687b489b29ca2ac168b76211731ed46e41c1002bb8e3158048ef7fc92"
+  },
+  "157": {
+    "required": [
+      "11,15"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        91
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c803b49a52b05e07c4539e97d596d34e5ce866f0f064c46e19717a041ca6e53f"
+  },
+  "159": {
+    "required": [
+      "0,974"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        73
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "cfaf5314617f7a2e73af06ee62fe8b042c078d2ac4dce6e658f7066850983b0e"
+  },
+  "158": {
+    "required": [
+      "lacunes"
+    ],
+    "expected_status": [
+      "unvalidated_data"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        71
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "080709a8c37b7fcccffd0c7c701fbd5dc42e94a765d353b74b18b6c3991005ae"
+  },
+  "170": {
+    "required": [
+      "37607000",
+      "unité"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Volume brut imprimé 37607000 ; unité Hm3 incohérente avec débit moyen et durée. Réserve nécessaire.",
+    "question_sha256": "eb212ab98b5cb33ec9a4e52948ebf5ef76bca2b05fd6387fbc82eb326d9d1824"
+  },
+  "171": {
+    "required": [
+      "386,414"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        74
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "8bd5f9e73b9425df38696433f0d2f8816a59b9f9e5c61412c4dec5eec0dc6c08"
+  },
+  "172": {
+    "required": [
+      "495",
+      "unité"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        72
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b7847037d0b871b97090e19b5a002e193dbbf7f20ee7a8c005878137ec895dfa"
+  },
+  "181": {
+    "required": [
+      "167",
+      "139"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "6de82d275f2cbebd7fa889a490e6129f9082e6d80dd9a2ac9fac535b222b651f"
+  },
+  "182": {
+    "required": [
+      "283",
+      "2018"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "4305606d3e8e9148aa38e9f57e50d31a9926ff73b36ef7be1ff2314716a22762"
+  },
+  "185": {
+    "required": [
+      "283",
+      "2018"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "3696a7fb8cca8ab5691a7a3a48be1435d09a75f7160b4a472162f16f62bbd258"
+  },
+  "183": {
+    "required": [
+      "ne permettent pas"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Les notices comparent 2022–2023 à un apport normal, pas aux apports 2021–2022.",
+    "question_sha256": "9de55cbdd0b1f34e6f0fec8cb7836e01899634b47c20765dcf1f6371d6192d39"
+  },
+  "187": {
+    "required": [
+      "ne permettent pas"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Les notices comparent 2022–2023 à un apport normal, pas aux apports 2021–2022.",
+    "question_sha256": "290fe8c27f71aa6bac51c1145faaa1f09ae552c09eb1573f895f48f84b9dad26"
+  },
+  "189": {
+    "required": [
+      "402",
+      "446"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "16eda83adef16b804d69842ec5cee72facd9b974bc6d91d9538707658905ea28"
+  },
+  "191": {
+    "required": [
+      "compar",
+      [
+        "voisin",
+        "voisines"
+      ],
+      [
+        "bulletin",
+        "copies"
+      ]
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        6
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "14365f267957a4e9415b2ea166be01b4fbe93412530ebde01a1d65c55557e0d1"
+  },
+  "192": {
+    "required": [
+      "7",
+      "veille"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        6
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c37447f8bd6e468c80b7373338a1c28b420acef80e6d25409acd562be7bccebf"
+  },
+  "193": {
+    "required": [
+      [
+        "gerer",
+        "gerent"
+      ],
+      [
+        "observ",
+        "recueill"
+      ],
+      [
+        "fichier",
+        "informati"
+      ]
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        2
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "e151da506f8603bbb02ef9d263c0b7f8cd4d87bb7d0f502f0683f12c9e668ffb"
+  },
+  "194": {
+    "required": [
+      "continent",
+      "48",
+      "cinq",
+      "gouvernorat"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        36
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "93d680c8c98f710d94b20e3afab3487f292c1939ca8aeafb4681920b566c2e56"
+  },
+  "195": {
+    "required": [
+      "jaugeage",
+      "crue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "ff2b196e926dff30e6996c60b238cea4533aca6a50e2871262e50b4bbf798579"
+  },
+  "196": {
+    "required": [
+      "jaugeage",
+      "etiage"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "1c411318ac0e1de48d90aeeb07ff20b3a8068602280991ce2fcddd34c62e4879"
+  },
+  "197": {
+    "required": [
+      "débit moyen journalier"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "ef34b1f6ef1edbe829d1aa57c7e6633872d6a9632858f18ef8da32133d0c44b5"
+  },
+  "198": {
+    "required": [
+      "résidu sec"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "4a1d8dfd0e8768d4777018c5610e8abd871c1ac0bde6444f7409741b50fb9900"
+  },
+  "199": {
+    "required": [
+      "transport solide"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0d7aa4acf654a350760c75663de4c5d412c36898625ed6bd3918ab0e2c04bbe4"
+  },
+  "200": {
+    "required": [
+      "hydracces"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        6
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "af897e56b61ab26b750095e47b1bbd3773df4dd91a43977127bd4ee582f3ed85"
+  },
+  "201": {
+    "required": [
+      "direction",
+      "ressources",
+      "eau"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        2
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "006a1ddbd019b358a3341623de5de022436b6f14e123e5512603bef6c54b6a7a"
+  },
+  "202": {
+    "required": [
+      "septembre 2022",
+      "août 2023"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        2
+      ],
+      [
+        "pluvio_2022_2023",
+        2
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "2f033e12a35918fe6435d693b521e41252ed159025aa1659eb05d6da4250e8ca"
+  },
+  "203": {
+    "required": [
+      "sycohtrac"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        11
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "d46dd60bb6f3963dcdd7afb1d97c889af426ca2e0e0e7dbfa18f357c6bc79be4"
+  },
+  "204": {
+    "required": [
+      "53",
+      "15"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        11
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "21e64479258d109c7cc8acf3b2fb3e0ba5199888c0095fee61e73f56506c6859"
+  },
+  "205": {
+    "required": [
+      "53",
+      "15"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        11
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c74a686c9b26e43691efa0bffe493e2bc84aff0b31917c672eb27fc6f1bbe6c5"
+  },
+  "206": {
+    "required": [
+      "najla",
+      "khalfoun"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        2
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a66fdc63cb9cdaa0dcd60e62ac9f162719d227b4d0527d61c7ae15d293005f75"
+  },
+  "207": {
+    "required": [
+      "aissa",
+      "hlaimi"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        2
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "36d6acdb2887fcc1c2a2a3a0f30e8647d15f45e752199cc3800196ed8102be21"
+  },
+  "223": {
+    "required": [
+      "aissa",
+      "hlaimi"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        2
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9eb7017d4856ab00e275626bbbd019fe5d56ba24555167af98270f3885fbc67f"
+  },
+  "208": {
+    "required": [
+      "base",
+      "secondaire",
+      "automati"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        11
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "16e57871960c7d587f00f7641a97684afc0bb84e134cab22dd8748272cc77550"
+  },
+  "209": {
+    "required": [
+      "écoulement",
+      "base",
+      "chimique"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        11
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "7a857471263cb0309ee881a524e296f07aa2bba8eb3785c9c20779ad08d0cd21"
+  },
+  "210": {
+    "required": [
+      "3",
+      "6",
+      "étude"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        11
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "bc1f7566b25beaea415811d947122d46fe880bc3cac84bed6a6dabba5ac02568"
+  },
+  "211": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c34f2998eac57beb5f1ad3a9080795c8322c832d90508cbe94289db13395e93a"
+  },
+  "216": {
+    "required": [
+      "167",
+      "28"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a8c28c7c4b22cb7d7bf01608d90a1c3e383d91dace0eafbb592352c0c1bc195c"
+  },
+  "217": {
+    "required": [
+      "37",
+      "centre ouest",
+      "sud ouest"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "de98301c0484b654692596eafaedcd573269e82fcac4e14a83822a1aeb06aa56"
+  },
+  "219": {
+    "required": [
+      "novembre",
+      "148"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        24
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "0cc7cf3b674d2d589282a3d2a6605a7b7739926cfbb101a156af8f953d845de2"
+  },
+  "221": {
+    "required": [
+      "ne trouve pas"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Question piège : ne pas inventer une réponse à une information non établie dans le corpus.",
+    "question_sha256": "beca04c70673cad632d788763993455c53e7a4a0faa0e099f39da836d5b86766"
+  },
+  "222": {
+    "required": [
+      "ne trouve pas"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Question piège : ne pas inventer une réponse à une information non établie dans le corpus.",
+    "question_sha256": "3a2aa0fc4025d34ad5871d5d725e0372bd41e6ae88268a19c87e45db963aee97"
+  },
+  "224": {
+    "required": [
+      "ne trouve pas"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Question piège : ne pas inventer une réponse à une information non établie dans le corpus.",
+    "question_sha256": "388b50ac40bb0b62735790e1ad4e5bcf781ad2287dd2a307997fb635b08b1676"
+  },
+  "225": {
+    "required": [
+      "aucun"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        145
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "38644a6e4d60a1f827b5b8a6f21cb480e3cec9d728cd86aacbf8e9b21f84e7ca"
+  },
+  "226": {
+    "required": [
+      "aucun"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        16
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "9ea0940a811ea76ddf2e4f914e8e2b641547b690bb5171bc5b94bae7badfbeae"
+  },
+  "227": {
+    "required": [
+      "novembre",
+      "73"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        24
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "07ea85aa7b80bc6cc9bcb63422f022c2680f41b31fc03e2bc4833f45ff3c064d"
+  },
+  "228": {
+    "required": [
+      "112"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        20
+      ]
+    ],
+    "note": "112 km² est la valeur imprimée dans ce PDF, sans correction depuis une source externe.",
+    "question_sha256": "3d87710178adad9848903b2237681afab8b9220f47502651b75591c9e7acd1dd"
+  },
+  "17": {
+    "required": [
+      "868,778",
+      "m³/s",
+      "mellègue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Comparer les débits de pointe des événements disponibles, sans prétendre mesurer les dégâts ni toute la gravité nationale.",
+    "question_sha256": "ca3dc1fceae2641191cf0e83d56880f987b364b89c28d1938cc6b3f366700db4"
+  },
+  "18": {
+    "required": [
+      "868,778",
+      "m³/s",
+      "mellègue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Comparer les débits de pointe des événements disponibles, sans prétendre mesurer les dégâts ni toute la gravité nationale.",
+    "question_sha256": "d7aea959fb587e7e85bc1fb06ce93e2724d2e9ead91e74288966548c82782b00"
+  },
+  "126": {
+    "required": [
+      "868,778",
+      "m³/s",
+      "mellègue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Comparer les débits de pointe des événements disponibles, sans prétendre mesurer les dégâts ni toute la gravité nationale.",
+    "question_sha256": "7d9df16887db6d30cc158e8be9990ed7eccfdeeea6b2d863c78e6d6a3075323e"
+  },
+  "168": {
+    "required": [
+      "868,778",
+      "m³/s",
+      "mellègue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Comparer les débits de pointe des événements disponibles, sans prétendre mesurer les dégâts ni toute la gravité nationale.",
+    "question_sha256": "7d3491fa31ac92c0208eb575e267dd516aab26bf7ed42b4d4263e0337b136194"
+  },
+  "169": {
+    "required": [
+      "868,778",
+      "m³/s",
+      "mellègue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Comparer les débits de pointe des événements disponibles, sans prétendre mesurer les dégâts ni toute la gravité nationale.",
+    "question_sha256": "da9aadd07d954328eb561c84660ae8dffc3f6d172b94a747808d2757fae7521e"
+  },
+  "215": {
+    "required": [
+      "868,778",
+      "m³/s",
+      "mellègue"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Comparer les débits de pointe des événements disponibles, sans prétendre mesurer les dégâts ni toute la gravité nationale.",
+    "question_sha256": "3db7c2b3061f944323160a2820873e6eff0b2ce4baedad7349b0bd641ba552e5"
+  },
+  "50": {
+    "required": [
+      "144",
+      "fretissa",
+      "2022-09-16"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        133
+      ]
+    ],
+    "note": "Maximum journalier dans les observations disponibles ; le cumul mensuel ne répond pas à cette question.",
+    "question_sha256": "7284e9a2640017054f5961d35c1c720e07a27f98156adb7a367aa1e39992152e"
+  },
+  "61": {
+    "required": [
+      "144",
+      "fretissa",
+      "2022-09-16"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        133
+      ]
+    ],
+    "note": "Maximum journalier dans les observations disponibles ; le cumul mensuel ne répond pas à cette question.",
+    "question_sha256": "3ceb392ad067e8f1c3f61e5b01105b76406f7e04128ef2bbf9b6919bf38c8c87"
+  },
+  "70": {
+    "required": [
+      "144",
+      "fretissa",
+      "2022-09-16"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        133
+      ]
+    ],
+    "note": "Maximum journalier dans les observations disponibles ; le cumul mensuel ne répond pas à cette question.",
+    "question_sha256": "7533e05978a282f835bc321474a32fc375c60bb7f6216c112d366b9e786f97e4"
+  },
+  "81": {
+    "required": [
+      "144",
+      "fretissa",
+      "2022-09-16"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        133
+      ]
+    ],
+    "note": "Maximum journalier dans les observations disponibles ; le cumul mensuel ne répond pas à cette question.",
+    "question_sha256": "088e285cb61cdb068984514ed59e538548b31b34f1ef506abd52cdd07929c42f"
+  },
+  "63": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Station ou mesure insuffisamment établie : demander une précision au lieu de substituer un autre poste.",
+    "question_sha256": "1c128deeee470031b28ad60c128ece4c8ed159adedf30053d980dc9cd034b6c6"
+  },
+  "65": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Station ou mesure insuffisamment établie : demander une précision au lieu de substituer un autre poste.",
+    "question_sha256": "a91273ec44c35050e2fcabf91e18e2f5cfbc9005b3804aadbb125ed6003da87e"
+  },
+  "78": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Station ou mesure insuffisamment établie : demander une précision au lieu de substituer un autre poste.",
+    "question_sha256": "dc59177efd7d7cb6199eda10be61255e4699317618d531d18f2a4038320a28e6"
+  },
+  "127": {
+    "required": [],
+    "expected_status": [
+      "ambiguous"
+    ],
+    "pages": [],
+    "note": "Station ou mesure insuffisamment établie : demander une précision au lieu de substituer un autre poste.",
+    "question_sha256": "df62e986cbb1d1d7aec983ab109906697302fb84c7b32fea824febcc93c01d41"
+  },
+  "144": {
+    "required": [
+      "gp17",
+      "197,28",
+      "193,80"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        55
+      ]
+    ],
+    "note": "Pointes des crues de mai et juin à GP17 ; ne pas substituer Mellègue K13.",
+    "question_sha256": "8ce3538b24baac48ce743df876315a64f5298f531074fe7c7de561644f8dfcca"
+  },
+  "66": {
+    "required": [
+      "0",
+      "nul",
+      "incomplete"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        208
+      ]
+    ],
+    "note": "Le total nul est imprimé, mais la fiche ne permet pas de conclure à une absence de pluie sur toute l’année.",
+    "question_sha256": "fb06ffb63eafc2b956dc4f70e66483bed62c1469e2157d9a7d98bd9366f9ae11"
+  },
+  "67": {
+    "required": [
+      "1335",
+      "bourguiba"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        60
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "68ebcd4d7435d52d8d2587775c929e955a647c26bb3b0c699b10840ae203f00d"
+  },
+  "73": {
+    "required": [
+      "67",
+      "64",
+      "21"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        62
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "35931dc689dc0c19a614261f51a2838a9f0a2fdcb516dce282e8d022dd66fc3c"
+  },
+  "76": {
+    "required": [
+      "284",
+      "ain draham"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "16355c948a5b40d100cd2bd09edda622cc72ba37fab1d72055ff3ee00e22f353"
+  },
+  "77": {
+    "required": [
+      "0",
+      "egalite"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [],
+    "note": "Plusieurs postes présentent le même total mensuel nul : ne pas annoncer un vainqueur unique.",
+    "question_sha256": "d439643a7fb025015e55a65e4bbaaa242d95c2d480034b7abfb8a10f153709d6"
+  },
+  "79": {
+    "required": [
+      "102",
+      "ain draham"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "b5741749c86fa851a9675f4dff5ddf735c8cd6adb2704e5a872a04a86e0e0feb"
+  },
+  "80": {
+    "required": [
+      "0",
+      "disponibles"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        208
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "93c0b577ebb58a8fa0e115463dc24e4566673c4d5befe20e261c4692d57462fb"
+  },
+  "128": {
+    "required": [
+      "lacunes"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        71
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "302e562d2fcdb772c490c1ddc8dc1a22376ba0b809e49b9c3f02f17c788eea74"
+  },
+  "129": {
+    "required": [
+      "lacunes"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        71
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "3dbdc4ccfe10f5b13da0d923b8020aed9a881538806de8a902a131bb1ad4237d"
+  },
+  "130": {
+    "required": [
+      "tirets",
+      "completes"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        208
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "cf6cb79f5d4985628316a17bd34c996392ee38b623a5c02fa790316bbf9af5db"
+  },
+  "134": {
+    "required": [
+      "36,5",
+      "19 juin 2023"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        36
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "937066d29e1cc11661ff012506db36cde4ffe3b842811bda6ef21bbe0bb549f5"
+  },
+  "175": {
+    "required": [
+      "36,5",
+      "19 juin 2023"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        36
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "937066d29e1cc11661ff012506db36cde4ffe3b842811bda6ef21bbe0bb549f5"
+  },
+  "141": {
+    "required": [
+      "6,083",
+      "12,45"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        36
+      ]
+    ],
+    "note": "Présenter les deux débits et leurs stations ; une différence sans noms ne suffit pas.",
+    "question_sha256": "152dcb286c07b005ec5488239ec4c2b54c31289ad74b06b9dfd4fea560fe342c"
+  },
+  "142": {
+    "required": [
+      "jendouba",
+      "185,67",
+      "31,753"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        60
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "f271a9af5017666eeacde7cdcdea3ead08854f01c301800ab5107094670fbd59"
+  },
+  "143": {
+    "required": [
+      "12,45",
+      "7,569",
+      "6,083",
+      "5,296",
+      "1,754"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        40
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "7d4c0e5eb0a62748e411bb17ab1bb3cdecdd4f156b0bc90dea12c1b1f983887d"
+  },
+  "148": {
+    "required": [
+      "1,043"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        29
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "584b5951f91ad40e4f62a99b2bb86060866faa07597543eb1d3056f56891cd47"
+  },
+  "160": {
+    "required": [
+      "0,221"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        75
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c29f0a21bb874b0db2d3494b1dd1a49de71ee4df88c285ab5626d95c1c6d2f34"
+  },
+  "161": {
+    "required": [
+      "debits",
+      "montee",
+      "base"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        14
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "a395101a04e813b7b0dc33871b98fb077c87e63b775c97e0390c71317cae68e6"
+  },
+  "166": {
+    "required": [
+      "05/2023",
+      "742"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "815345603c2f838da8981e7b0344c7b9de9385da99fd12467c6cf937e32ddb1f"
+  },
+  "167": {
+    "required": [
+      "06/2023",
+      "868,778"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "hydro_2022_2023",
+        78
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "62ada970db7843333c5cc184469a811ba224791cdd6e3a9b2451646c141a8a9a"
+  },
+  "184": {
+    "required": [
+      "167",
+      "158"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "3d0871e4aff6181c590a8a695544d0d2b3ad05f89edfb6d379cba1261bceff91"
+  },
+  "186": {
+    "required": [
+      "167",
+      "139"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "fbf336f8cce885361fa1ea1f0e6e53658c85183403c2145d6e384a238c633e30"
+  },
+  "188": {
+    "required": [
+      "ne peux pas",
+      "2021"
+    ],
+    "expected_status": [
+      "not_found"
+    ],
+    "pages": [],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c835b417a5b0af1a6895722f43f94b45e752ed91ae207d2ee3883fa966dc448c"
+  },
+  "190": {
+    "required": [
+      "sud ouest",
+      "sud est",
+      "65",
+      "46",
+      "108",
+      "44"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        9
+      ]
+    ],
+    "note": "Lecture des tableaux et passages originaux ; annotation par agent.",
+    "question_sha256": "c6bf781a17b46b90a939744887a02577d14d8e5e302a2b0328abc39df89a1c27"
+  },
+  "212": {
+    "required": [
+      "37",
+      "centre ouest",
+      "sud ouest"
+    ],
+    "expected_status": [
+      "answered"
+    ],
+    "pages": [
+      [
+        "pluvio_2022_2023",
+        8
+      ]
+    ],
+    "note": "Sécheresse interprétée ici par le déficit relatif à la normale, avec égalité entre deux régions.",
+    "question_sha256": "13d1478618480f1b3a911ac589a7ea19fb6b607464e148cbab905c229f070f53"
+  }
+}

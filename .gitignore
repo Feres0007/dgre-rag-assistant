@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+data/
+tmp/
+donnees_brutes/
+config/app.local.yaml
+
+livrables/
+backups/
+.codex-finalizer/
+reports/*
+!reports/*.md
+!reports/question_audits/
+reports/question_audits/*
+!reports/question_audits/BILAN.md

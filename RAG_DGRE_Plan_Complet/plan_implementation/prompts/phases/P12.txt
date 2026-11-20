@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P12 — Installation, livraison et reprise
+
+Exécute P12. Vérifie l’installation et le démarrage dans un environnement propre accessible. Documente les commandes réellement exécutées, puis les procédures Linux et PowerShell adaptées ; distingue une procédure non testée sur l’autre OS. Vérifie sauvegarde de release, restauration et reconstruction des index. Documente modèles/configurations réellement utilisés, prérequis réseau d’installation et fonctionnement hors ligne éventuel. Termine par reports/DELIVERY.md : réalisé, vérifié, couverture, anomalies, blocages, commandes de démarrage et prochaine action exacte. N’annonce pas de déploiement public. Ne qualifie le projet de livré complet que si tous les critères obligatoires sont satisfaits.
+
+Priorité au poste Windows et aux chemins avec espaces. Produis les scripts de lancement Windows, sans prétendre les avoir exécutés si le poste cible est inaccessible.
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P12_report.md en remplaçant P12 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

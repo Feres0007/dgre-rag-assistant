@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P00 — Examiner l’environnement et le dépôt
+
+Exécute P00. Inspecte les instructions du dépôt, l’état Git, le code existant, Python, RAM, GPU éventuel et fournisseurs de modèles disponibles. Localise les deux PDF sans modifier leurs originaux. Calcule leurs SHA-256 et leurs nombres de pages. Les exemplaires analysés précédemment avaient 145 pages hydrologiques et 242 pages pluviométriques : vérifie, ne l’impose pas à un fichier différent. Établis une matrice exigences/modules existants/manquants. Choisis des valeurs par défaut réversibles, documente-les et termine le rapport P00 avant de passer à P01. Si un fichier manque, demande ce fichier précisément et continue les tâches indépendantes.
+
+
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P00_report.md en remplaçant P00 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

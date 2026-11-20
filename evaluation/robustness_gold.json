@@ -1,0 +1,208 @@
+{
+  "1001": {
+    "question_sha256": "c8f374c6512c894a12e41cc3489dd540a284a528c925f6c5b6c0989299538b3b",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "expected_facts": [
+      {
+        "canonical_name": "AIN DRAHAM",
+        "metric_id": "rainfall_annual",
+        "value_decimal": "1178",
+        "unit": "mm",
+        "period_start": "2022-09-01",
+        "period_end": "2023-08-31"
+      }
+    ],
+    "all_pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ]
+  },
+  "1002": {
+    "question_sha256": "2f76e6d93ed878da112528b034526cc8b01c8c6b3f3d2d4567e250a69d9ac714",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "expected_facts": [
+      {
+        "canonical_name": "AIN DRAHAM",
+        "metric_id": "rainfall_daily_max",
+        "value_decimal": "93",
+        "unit": "mm",
+        "event_date": "2023-05-20"
+      }
+    ],
+    "all_pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ]
+  },
+  "1003": {
+    "question_sha256": "d5c2c229a1a4481c139406b914d893d80299084ca37f064a6afb52a43b6fa14c",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "partial"
+    ],
+    "expected_calculations": [
+      {
+        "formula_id": "rainfall_sum",
+        "value": "97",
+        "unit": "mm"
+      }
+    ],
+    "expected_coverage": {
+      "expected": 3,
+      "available": 2,
+      "complete": false
+    },
+    "all_pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "20 mai = 93 ; 21 mai = 4 ; 22 mai tiret non converti en zéro."
+  },
+  "1004": {
+    "question_sha256": "80e86f7840f437136f7fee9fbbc4b0b9f25e52b439c939f480ae186b43183e6d",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "partial"
+    ],
+    "expected_calculations": [
+      {
+        "formula_id": "threshold_count",
+        "value": "1",
+        "unit": "jours"
+      }
+    ],
+    "all_pages": [
+      [
+        "pluvio_2022_2023",
+        59
+      ]
+    ],
+    "note": "Le maximum de 93 est la seule cellule supérieure à 90 ; tirets exclus."
+  },
+  "1005": {
+    "question_sha256": "c379214424b467e26571cab1d91ecc735b3cf582f12c8d6449404307521aff7a",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "ambiguous"
+    ],
+    "required": [
+      [
+        "OULED BOU SAAD",
+        "OULED BOUSAAD"
+      ],
+      "OULED HADJ"
+    ],
+    "note": "Deux fiches portent ce code, page PDF 208 ; ne pas fusionner 18 mm et 0 mm. Orthographe de la fiche originale : OULED BOU SAAD ; espace conservé, variante jointe admise."
+  },
+  "1006": {
+    "question_sha256": "d763b05a02e4009181b9ece8d30f91c48e2dc571348fb210089127d06f22d715",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "expected_facts": [
+      {
+        "canonical_name": "BOU BRIMA",
+        "metric_id": "gauging_discharge",
+        "value_decimal": "0.089",
+        "unit": "m3/s",
+        "event_time": "12:00"
+      }
+    ],
+    "all_pages": [
+      [
+        "hydro_2022_2023",
+        48
+      ]
+    ]
+  },
+  "1007": {
+    "question_sha256": "0ddcce97ee157756128eb3dc8f30a475757403120431028e240c43977a621618",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "expected_facts": [
+      {
+        "canonical_name": "BOU BRIMA",
+        "metric_id": "dry_residue",
+        "value_decimal": "0.61",
+        "unit": "g/L"
+      }
+    ],
+    "all_pages": [
+      [
+        "hydro_2022_2023",
+        48
+      ]
+    ]
+  },
+  "1008": {
+    "question_sha256": "29e17f2740f36533c9c8d94acf5c5198dee1e2d2910a1e282a35fe72fefd0104",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "expected_claims": [
+      {
+        "kind": "rating",
+        "value": "0.15",
+        "unit": "m3/s",
+        "origin": "estimated"
+      }
+    ],
+    "all_pages": [
+      [
+        "hydro_2022_2023",
+        38
+      ]
+    ],
+    "note": "H=100 cm Q=0.10 ; H=105 cm Q=0.20. Interpolation au milieu =0.15."
+  },
+  "1009": {
+    "question_sha256": "4a2582aa245d633b315ba4345ee2f43b3a29bbe5e8cd278a28236367899a5c9e",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "expected_claims": [
+      {
+        "kind": "rating",
+        "value": "0.85",
+        "unit": "m3/s",
+        "origin": "published"
+      }
+    ],
+    "all_pages": [
+      [
+        "hydro_2022_2023",
+        38
+      ]
+    ]
+  },
+  "1010": {
+    "question_sha256": "e5589ce7d45cc7fa2c99b55f0c93939212000a380a54af292d012559b5ccdbd3",
+    "verification": "PDF original : rendu et texte contrôlés, pas réponse générée.",
+    "expected_status": [
+      "answered"
+    ],
+    "required": [
+      "1178"
+    ],
+    "expected_facts": [{"canonical_name":"AIN DRAHAM","metric_id":"rainfall_annual","value_decimal":"1178","unit":"mm","period_start":"2022-09-01","period_end":"2023-08-31"}],
+    "all_pages": [["pluvio_2022_2023",59]],
+    "note": "Politique du 11 octobre 2026 : campagne du corpus par défaut. Ancien comportement : clarification pour période absente. Valeur identique au cas 1001 vérifié dans le PDF original."
+  }
+}

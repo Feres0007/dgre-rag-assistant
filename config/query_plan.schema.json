@@ -1,0 +1,167 @@
+{
+  "$defs": {
+    "Operation": {
+      "additionalProperties": false,
+      "properties": {
+        "op": {
+          "enum": [
+            "lookup",
+            "aggregate",
+            "compare",
+            "calculate",
+            "retrieve_text",
+            "get_figure"
+          ],
+          "title": "Op",
+          "type": "string"
+        },
+        "entity_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Entity Id"
+        },
+        "metric_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Metric Id"
+        },
+        "period": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Period"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "other_entity_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Other Entity Id"
+        },
+        "other_period": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Period"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "formula_id": {
+          "anyOf": [
+            {
+              "enum": [
+                "difference",
+                "ratio_to_baseline",
+                "relative_anomaly",
+                "positive_deficit",
+                "rainfall_sum",
+                "time_weighted_mean",
+                "daily_discharge_volume",
+                "maximum",
+                "minimum"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Formula Id"
+        },
+        "mode": {
+          "default": "published",
+          "enum": [
+            "published",
+            "calculated"
+          ],
+          "title": "Mode",
+          "type": "string"
+        }
+      },
+      "required": [
+        "op"
+      ],
+      "title": "Operation",
+      "type": "object"
+    },
+    "Period": {
+      "additionalProperties": false,
+      "properties": {
+        "start": {
+          "format": "date",
+          "title": "Start",
+          "type": "string"
+        },
+        "end": {
+          "format": "date",
+          "title": "End",
+          "type": "string"
+        }
+      },
+      "required": [
+        "start",
+        "end"
+      ],
+      "title": "Period",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "operations": {
+      "items": {
+        "$ref": "#/$defs/Operation"
+      },
+      "maxItems": 6,
+      "title": "Operations",
+      "type": "array"
+    },
+    "clarification": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Clarification"
+    },
+    "out_of_scope": {
+      "default": false,
+      "title": "Out Of Scope",
+      "type": "boolean"
+    }
+  },
+  "title": "QueryPlan",
+  "type": "object"
+}

@@ -1,0 +1,4 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+Diagnostique cette réponse incorrecte depuis la page source jusqu’à la réponse : géométrie, cellule, station, période, unité, sélection canonique, formule et rendu. Identifie la première divergence observable. Corrige sa cause, ajoute un test de non-régression indépendant et réexécute les tests des familles concernées. Ne code pas la valeur attendue dans le moteur et ne modifie pas silencieusement le PDF ou les données brutes. Invalide les dérivations et caches affectés.
+Reste dans le périmètre de la phase autorisée et produis le rapport avant toute poursuite.

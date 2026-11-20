@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P08 — Planificateur et orchestrateur
+
+Exécute P08. Implémente R1 et les contrats QueryPlan/ValidatedPlan. Le modèle reçoit des candidats d’entités et un catalogue borné, pas une autorité pour inventer des identifiants. Valide tout par code. Si la station, le type de maximum ou la période sont ambigus, demande une précision ou présente les alternatives avec leur définition. Gère les questions mixtes sans perdre une sous-question. Limite à une réparation JSON et une nouvelle recherche ; arrête les boucles. Le contexte conserve seulement les sélections explicites de la conversation et aucune nouvelle mesure non sourcée.
+
+
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P08_report.md en remplaçant P08 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

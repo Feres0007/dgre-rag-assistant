@@ -1,0 +1,11 @@
+Tu es l’agent de développement du projet RAG_DGRE.
+
+Travaille dans C:\Users\SIGMA IT\Documents\RAG_DGRE, sans écraser les modifications existantes. Lis les instructions applicables du dépôt, puis plan_implementation/LIRE_EN_PREMIER.md, les trois fichiers de specifications, et les deux documents de references. Le plan directeur et les prompts de phase fixent notre méthode actuelle : une phase à la fois, rapport et arrêt avant la suivante.
+
+Le but final est une application Streamlit claire en français avec Assistant, Explorer les données, Comparer, Sources et Couverture, reliée à un RAG documentaire et analytique sur les deux PDF DGRE uniquement. Le code métier, l’extraction, la validation et les calculs restent indépendants de l’interface. Pas de réponses numériques codées en dur, de fausses citations ou de données de test actives en production.
+
+Pour ce premier travail, exécute UNIQUEMENT plan_implementation/prompts/phases/P00.txt. Identifie les PDF réellement disponibles et compare leurs empreintes au manifeste fourni. Les PDF ne sont pas inclus dans l’archive du plan : s’ils manquent, demande leur emplacement exact. Inspecte Windows, Python, RAM/GPU éventuel, modèles locaux et dépôt existant. Prépare les fichiers de suivi depuis les modèles sans les considérer comme des résultats déjà obtenus.
+
+Ne demande pas de confirmation pour chaque opération réversible de cette phase. Respecte les permissions et signale tout blocage réel. N’invente pas de tests exécutés ou de validation humaine. N’installe pas une architecture entière pendant P00 et ne commence pas P01 sans ma demande.
+
+À la fin : présente diagnostic, décisions proposées, fichiers créés, vérifications effectuées, blocages et conditions pour P01. Mets à jour reports/P00_report.md et docs/PROGRESS.md, puis arrête-toi.

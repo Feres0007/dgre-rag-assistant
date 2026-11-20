@@ -1,0 +1,19 @@
+{
+  "note": "PDF originaux à fournir séparément ; un hash différent exige une nouvelle inspection.",
+  "documents": [
+    {
+      "document_id": "hydro_2022_2023",
+      "original_name": "ANNUAIRE HYDROLOGIQUE 2022-2023.pdf",
+      "expected_sha256": "78d6cfc8b16fab43c50363eb1853fdb117c6fc13d91352f3de28338ae0b63281",
+      "expected_page_count": 145,
+      "suggested_relative_path": "data/raw/ANNUAIRE HYDROLOGIQUE 2022-2023.pdf"
+    },
+    {
+      "document_id": "pluvio_2022_2023",
+      "original_name": "ANNUAIRE PLUVIOMETRIQUE DE LATUNISIE PUBLICATION 2022-2023.pdf",
+      "expected_sha256": "d62723ab32ced67bed7991365610423795900b4a474230dc8b7afe4de36d899b",
+      "expected_page_count": 242,
+      "suggested_relative_path": "data/raw/ANNUAIRE PLUVIOMETRIQUE DE LATUNISIE PUBLICATION 2022-2023.pdf"
+    }
+  ]
+}

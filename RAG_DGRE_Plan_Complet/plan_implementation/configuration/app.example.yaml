@@ -1,0 +1,27 @@
+# Exemple de configuration : modèles à choisir et tester pendant le développement.
+corpus:
+  allowed_document_ids: [hydro_2022_2023, pluvio_2022_2023]
+  external_knowledge: false
+  active_release: null
+retrieval:
+  lexical_candidates: 20
+  vector_candidates: 20
+  final_passages: 8
+  fusion: reciprocal_rank
+  reranker_enabled: false
+planner:
+  max_schema_repairs: 1
+  max_retrieval_retries: 1
+  max_operations: 6
+  timeout_seconds: 90
+models:
+  llm_provider: local
+  llm_model: null
+  embedding_model: null
+answer:
+  max_repairs: 1
+  numeric_templates: true
+  require_claim_evidence: true
+runtime:
+  query_db_read_only: true
+  default_year_assumption: null

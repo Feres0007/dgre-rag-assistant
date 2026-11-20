@@ -1,0 +1,82 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "status": {
+      "enum": [
+        "answered",
+        "partial",
+        "ambiguous",
+        "not_found",
+        "out_of_scope",
+        "unvalidated_data",
+        "source_conflict",
+        "technical_error"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "text": {
+      "title": "Text",
+      "type": "string"
+    },
+    "facts": {
+      "items": {
+        "additionalProperties": true,
+        "type": "object"
+      },
+      "title": "Facts",
+      "type": "array"
+    },
+    "citations": {
+      "items": {
+        "additionalProperties": true,
+        "type": "object"
+      },
+      "title": "Citations",
+      "type": "array"
+    },
+    "calculations": {
+      "items": {
+        "additionalProperties": true,
+        "type": "object"
+      },
+      "title": "Calculations",
+      "type": "array"
+    },
+    "limits": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Limits",
+      "type": "array"
+    },
+    "release_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Release Id"
+    },
+    "run_id": {
+      "title": "Run Id",
+      "type": "string"
+    },
+    "question": {
+      "title": "Question",
+      "type": "string"
+    }
+  },
+  "required": [
+    "status",
+    "text",
+    "run_id",
+    "question"
+  ],
+  "title": "Answer",
+  "type": "object"
+}

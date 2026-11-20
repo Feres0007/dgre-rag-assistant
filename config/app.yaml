@@ -1,0 +1,12 @@
+corpus_dir: donnees_brutes
+data_dir: data
+llm_url: http://127.0.0.1:11434
+llm_model: mistral:latest
+embedding_model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+timeout_seconds: 90
+max_operations: 6
+final_passages: 12
+model_downloads: false
+release_periods:
+  robust-9842f2291922: {start: '2022-09-01', end: '2023-08-31'}
+  corpus-c60e4a25cec4: {start: '2022-09-01', end: '2023-08-31'}

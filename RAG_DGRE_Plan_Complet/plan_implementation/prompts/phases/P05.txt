@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P05 — Base SQL et publication
+
+Exécute P05. Implémente et teste le schéma de la section 6, avec validations applicatives. Charge les observations et preuves du pilote, conserve les conflits et publie une sélection canonique seulement quand justifiée. Teste les clés étrangères, l’ingestion répétée sans duplication et un échec de publication qui conserve la release précédente. Ouvre la base active en lecture seule pour les questions. Ajoute dgre-rag coverage et dgre-rag inspect-source. Vérifie les citations par ouverture de page et rectangle.
+
+
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P05_report.md en remplaçant P05 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

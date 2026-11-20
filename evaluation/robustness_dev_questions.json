@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1001,
+    "question": "Quelle est la pluviométrie annuelle à Aïn Draham en 2022-2023 ?",
+    "category": "data",
+    "family_id": 15,
+    "split": "dev",
+    "context": {}
+  },
+  {
+    "id": 1003,
+    "question": "Calcule la somme des pluies journalières à Aïn Draham du 2023-05-20 au 2023-05-22.",
+    "category": "calculation",
+    "family_id": 26,
+    "split": "dev",
+    "context": {}
+  },
+  {
+    "id": 1005,
+    "question": "Quelle est la pluie annuelle de la station 1488496361 en 2022-2023 ?",
+    "category": "clarification",
+    "family_id": 7,
+    "split": "dev",
+    "context": {}
+  },
+  {
+    "id": 1006,
+    "question": "Quel débit de jaugeage est publié à BOU BRIMA le 2022-11-08 ?",
+    "category": "data",
+    "family_id": 40,
+    "split": "dev",
+    "context": {}
+  },
+  {
+    "id": 1008,
+    "question": "Estime par interpolation le débit pour une hauteur de 102,5 cm à BOU BRIMA le 2023-01-01.",
+    "category": "calculation",
+    "family_id": 34,
+    "split": "dev",
+    "context": {}
+  }
+]

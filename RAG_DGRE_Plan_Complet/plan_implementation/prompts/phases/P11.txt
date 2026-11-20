@@ -1,0 +1,9 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+P11 — Évaluation finale et corrections
+
+Exécute P11 selon la section 11. Construis des annotations directement à partir des pages, avec provenance et statut de revue honnête. Sépare développement et test final par groupes de stations/pages quand possible. Utilise des fixtures synthétiques uniquement pour les erreurs fabriquées, clairement identifiées. Exécute les tests unitaires, d’intégration et de bout en bout avec la configuration réelle. Mesure aussi la couverture des réponses : refuser toutes les questions n’est pas un succès. Corrige les causes racines. Ne transforme pas un test réservé en jeu de réglage sans l’annoncer et prévoir un nouveau test. Consigne les tests non exécutés séparément des tests réussis.
+
+Ajoute tous les tests UI obligatoires de specifications/02_INTERFACE_STREAMLIT.md et une inspection visuelle réelle ; consigne les scénarios non exécutés.
+
+MODE ÉTAPE PAR ÉTAPE : réalise seulement cette phase et ses corrections nécessaires. N’enchaîne pas la phase suivante. Vérifie l’intégration avec les phases déjà acceptées. Enregistre commandes réellement exécutées, résultats, fichiers livrés et anomalies dans reports/P11_report.md en remplaçant P11 par la phase actuelle. Mets à jour docs/PROGRESS.md et docs/BLOCKERS.md. Ne marque aucune décision utilisateur ou revue humaine comme effectuée sans preuve. Termine par le rapport de phase et attends la demande de poursuite.

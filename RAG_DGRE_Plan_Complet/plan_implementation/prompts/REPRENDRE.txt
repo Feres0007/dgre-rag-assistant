@@ -1,0 +1,4 @@
+Lis plan_implementation/specifications/01_PLAN_DIRECTEUR.md et les instructions applicables du dépôt. La racine cible est C:\Users\SIGMA IT\Documents\RAG_DGRE ; conserve les chemins relatifs dans le code. Les contrats détaillés sont dans plan_implementation/references/Guide_Agent_Implementation_RAG_DGRE.md.
+
+Reprends le projet selon Guide_Agent_Implementation_RAG_DGRE.md. Lis docs/PROGRESS.md, docs/DECISIONS.md, docs/BLOCKERS.md et le dernier rapport avant d’agir. Vérifie l’état réel des fichiers et des tests ; ne suppose pas qu’un ancien « terminé » est une preuve. Reprends au premier critère obligatoire non satisfait, préserve les modifications existantes et arrête-toi à la fin de la phase autorisée. Ne réingère pas inutilement une release valide ; utilise les empreintes et versions. Mets à jour le point de reprise.
+Reste dans le périmètre de la phase autorisée et produis le rapport avant toute poursuite.

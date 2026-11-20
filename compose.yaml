@@ -1,0 +1,26 @@
+services:
+  assistant:
+    image: dgre-rag:local
+    build:
+      context: .
+    ports:
+      - "127.0.0.1:${DGRE_PORT:-8501}:8501"
+    environment:
+      DGRE_LLM_URL: ${DGRE_LLM_URL:-http://host.docker.internal:11434}
+      DGRE_LLM_MODEL: ${DGRE_LLM_MODEL:-mistral:latest}
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - type: bind
+        source: ./data
+        target: /app/data
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./donnees_brutes
+        target: /app/donnees_brutes
+        read_only: true
+        bind:
+          create_host_path: false
+    restart: unless-stopped
+    init: true

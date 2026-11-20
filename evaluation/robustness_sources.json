@@ -1,0 +1,37 @@
+{
+  "documents": [
+    {
+      "document_id": "hydro_2022_2023",
+      "original_name": "ANNUAIRE HYDROLOGIQUE 2022-2023.pdf",
+      "relative_path": "donnees_brutes/ANNUAIRE HYDROLOGIQUE 2022-2023.pdf",
+      "sha256": "78d6cfc8b16fab43c50363eb1853fdb117c6fc13d91352f3de28338ae0b63281",
+      "page_count": 145
+    },
+    {
+      "document_id": "pluvio_2022_2023",
+      "original_name": "ANNUAIRE PLUVIOMETRIQUE DE LATUNISIE PUBLICATION 2022-2023.pdf",
+      "relative_path": "donnees_brutes/ANNUAIRE PLUVIOMETRIQUE DE LATUNISIE PUBLICATION 2022-2023.pdf",
+      "sha256": "d62723ab32ced67bed7991365610423795900b4a474230dc8b7afe4de36d899b",
+      "page_count": 242
+    }
+  ],
+  "pages_checked": [
+    [
+      "pluvio_2022_2023",
+      59
+    ],
+    [
+      "pluvio_2022_2023",
+      208
+    ],
+    [
+      "hydro_2022_2023",
+      38
+    ],
+    [
+      "hydro_2022_2023",
+      48
+    ]
+  ],
+  "scope": "10 cas ciblés ; ne constitue pas une réception des 52 familles."
+}
