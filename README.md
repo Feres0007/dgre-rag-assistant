@@ -1,6 +1,96 @@
-# DGRE — Assistant des annuaires
+# DGRE — Assistant RAG des annuaires
 
 Application Windows locale pour consulter les deux annuaires 2022–2023 : recherche documentaire, observations structurées, calculs contrôlés et ouverture des preuves PDF.
+
+## C'est quoi ce projet ? (en simple)
+
+Cet outil est un **assistant RAG** (*Retrieval-Augmented Generation*) qui répond à des questions en langage naturel sur **deux annuaires officiels tunisiens 2022–2023** :
+
+1. **Annuaire hydraulique** — 145 pages : débits des cours d'eau, niveaux des barrages, crues historiques.
+2. **Annuaire pluviométrique** — 242 pages : pluies journalières et mensuelles des stations.
+
+Au lieu de feuilleter **387 pages de PDF**, on pose une question (« Quel est le maximum journalier de pluie à Aïn Draham en 2022–2023 ? ») et l'application renvoie une réponse **avec les pages source** qui permettent de vérifier le chiffre.
+
+**Le point clé : le modèle de langage n'invente pas les nombres.** Le logiciel extrait les tableaux, valide les valeurs, les stocke dans SQLite, effectue les calculs avec des règles déterministes, puis le modèle local (Ollama / Mistral) rédige une réponse contrainte aux preuves trouvées. Si la donnée est absente ou ambiguë, l'assistant le dit explicitement au lieu de deviner.
+
+### RAG = Retrieve · Augment · Generate
+
+- **Retrieve** — retrouver les bons passages grâce à deux index : recherche lexicale **SQLite FTS5 (BM25)** et recherche sémantique par **embeddings locaux** (FastEmbed / ONNX).
+- **Augment** — joindre les observations structurées et leurs preuves : document, page PDF, page imprimée, rectangle du tableau, cellule, unité et période.
+- **Generate** — le LLM local rédige à partir de **ces seules preuves**, avec un contrôle avant et après génération (nombres, unités, périodes, entités).
+
+---
+
+## Schéma 1 — Architecture globale
+
+```mermaid
+flowchart LR
+    subgraph INGESTION["1. Préparation du corpus (hors ligne)"]
+        A[2 PDF officiels<br/>145 + 242 pages] --> B["register / inventory<br/>registre + empreinte SHA-256"]
+        B --> C["extract<br/>texte · tableaux · cellules · figures"]
+        C --> D["validate<br/>contrôles qualité + statuts"]
+        D --> E["publish<br/>release dans data/releases/"]
+        E --> F[("SQLite<br/>observations + preuves")]
+        E --> G[("Index FTS5 +<br/>embeddings vectoriels")]
+    end
+
+    subgraph QUESTION["2. Réponse à une question (en ligne)"]
+        U[Question en langage naturel] --> P["Plan validé<br/>entité · indicateur · période"]
+        P --> R{Type de demande}
+        R -->|Texte| G
+        R -->|Chiffres| F
+        G --> V[Preuves : page, cellule, unité, période]
+        F --> K["Calculs contrôlés<br/>différence · cumul · max · comparaison"]
+        K --> V
+        V --> L["LLM local Ollama / Mistral<br/>rédaction contrainte"]
+        L --> O[Réponse + sources vérifiables]
+    end
+```
+
+## Schéma 2 — Pipeline de préparation des données
+
+```mermaid
+flowchart TD
+    A[PDF originaux dans donnees_brutes/] --> B[register]
+    B --> C[inventory]
+    C --> D[extract --scope pilot ou all]
+    D --> E[validate]
+    E --> F{Contrôles réussis ?}
+    F -->|Non| G[Anomalies conservées pour audit]
+    G --> D
+    F -->|Oui| H[publish --label pilot]
+    H --> I[index --allow-download]
+    I --> J[data/active.json désigne la release active]
+```
+
+Les trois états des données sont **brut** (tel qu'extrait), **candidat** (valeur normalisée avec indicateur, période, unité) et **publié** (après contrôles, avec preuves). Un tiret n'est jamais converti en zéro sans preuve de la convention.
+
+## Schéma 3 — Le déroulement d'une question
+
+```mermaid
+sequenceDiagram
+    participant U as Utilisateur (Streamlit)
+    participant P as Planificateur (LLM local)
+    participant S as SQLite FTS5 + index vectoriel
+    participant C as Moteur de calcul
+    participant G as Générateur (LLM local)
+
+    U->>P: question + contexte explicite
+    P->>P: plan JSON validé (entité, indicateur, période)
+    alt Question numérique
+        P->>S: rechercher observations + preuves
+        S-->>P: observations validées
+        P->>C: calcul autorisé (différence, cumul, maximum)
+        C-->>P: résultat + formule
+    else Question documentaire
+        P->>S: recherche hybride de passages
+        S-->>P: passages + pages source
+    end
+    P->>G: preuves + gabarit de réponse
+    G-->>U: réponse citée, demande de précision ou abstention
+```
+
+---
 
 ## Lancer l’application
 
@@ -110,5 +200,5 @@ Références techniques consultées pour les APIs utilisées : [PyMuPDF](https:/
 
 ## GitHub repository
 
-This repository contains the source code, configuration, tests, scripts and documentation. Generated data (data/, donnees_brutes/, 	mp/, livrables/) and large audit reports stay local and are not versioned; rebuild them with the commands above.
+This repository contains the source code, configuration, tests, scripts and documentation. Generated data (data/, donnees_brutes/, tmp/, livrables/) and large audit reports stay local and are not versioned; rebuild them with the commands above.
 
